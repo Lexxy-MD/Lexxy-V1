@@ -12,9 +12,9 @@ git clone https://github.com/Lexxy-MD/Lexxy-V1
 
 ls
 
-git pull
-
 cd Lexxy-V1
+
+git pull
 
 python Lexxy-V1.py
 
